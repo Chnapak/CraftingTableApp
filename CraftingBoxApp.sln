@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CraftingBoxApp", "CraftingBoxApp\CraftingBoxApp.csproj", "{C94A4A66-AB64-4805-84F3-2A05031F78CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C94A4A66-AB64-4805-84F3-2A05031F78CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94A4A66-AB64-4805-84F3-2A05031F78CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94A4A66-AB64-4805-84F3-2A05031F78CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94A4A66-AB64-4805-84F3-2A05031F78CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {563F8D20-8FB0-4199-8EBA-93D120A76E21}
+	EndGlobalSection
+EndGlobal
